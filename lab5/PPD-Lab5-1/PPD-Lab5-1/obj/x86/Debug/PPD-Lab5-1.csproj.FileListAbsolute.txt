@@ -1,0 +1,10 @@
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab5/PPD-Lab5-1/PPD-Lab5-1/bin/Debug/PPD-Lab5-1.exe
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab5/PPD-Lab5-1/PPD-Lab5-1/bin/Debug/PPD-Lab5-1.pdb
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab5/PPD-Lab5-1/PPD-Lab5-1/obj/x86/Debug/PPD-Lab5-1.csproj.CoreCompileInputs.cache
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab5/PPD-Lab5-1/PPD-Lab5-1/obj/x86/Debug/PPD-Lab5-1.exe
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab5/PPD-Lab5-1/PPD-Lab5-1/obj/x86/Debug/PPD-Lab5-1.pdb
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab5/PPD-Lab5-1/PPD-Lab5-1/obj/x86/Debug/PPD-Lab5-1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\An3-sem1\PPD\lab5\PPD-Lab5-1\PPD-Lab5-1\obj\x86\Debug\PPD-Lab5-1.exe
+\\Mac\Home\Documents\An3-sem1\PPD\lab5\PPD-Lab5-1\PPD-Lab5-1\obj\x86\Debug\PPD-Lab5-1.pdb
+\\Mac\Home\Documents\An3-sem1\PPD\lab5\PPD-Lab5-1\PPD-Lab5-1\bin\Debug\PPD-Lab5-1.exe
+\\Mac\Home\Documents\An3-sem1\PPD\lab5\PPD-Lab5-1\PPD-Lab5-1\bin\Debug\PPD-Lab5-1.pdb

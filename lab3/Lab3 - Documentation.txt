@@ -1,0 +1,107 @@
+Lab3 - Documentation
+
+
+C++
+threadpool
+------Addition:------
+Adding a 10 by 10 with a 10 by 10 matrices on 1 thread took            421 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 10 threads took          588325 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 100 threads took         3117281 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on one thread took      44305 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 10 threads took      511987 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 100 threads took     2713123 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  4091727 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  2265358 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 3562629 nanoseconds
+
+------Multiplication:------
+Multiplying a 10 by 10 with a 10 by 10 matrices on one thread took          2952 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 10 threads took          236660 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 100 threads took         2906892 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on one thread took      3241734 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 10 threads took      991260 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 100 threads took     2764306 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  3442081773 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  1666718959 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 1683122625 nanoseconds
+
+
+C++
+async && future
+------Addition:------
+Adding a 10 by 10 with a 10 by 10 matrices on one thread took          419 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 10 threads took          579582 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 100 threads took         2375852 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on one thread took      44604 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 10 threads took      268241 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 100 threads took     2387574 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  4204880 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  1960166 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 3770137 nanoseconds
+
+
+
+------Multiplication:------
+Multiplying a 10 by 10 with a 10 by 10 matrices on one thread took          3766 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 10 threads took          306971 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 100 threads took         1812352 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on one thread took      3319508 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 10 threads took      1029903 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 100 threads took     2538392 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  4200625854 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  1706970672 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 1746457516 nanoseconds
+
+
+
+
+Java
+threadpool
+------Addition:------
+Adding a 10 by 10 with a 10 by 10 matrices on 1 thread took            2940461.0 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 10 threads took          3305603.0 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 100 threads took         1.6123028E7 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on one thread took      2.020642E7 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 10 threads took      2.4135704E7 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 100 threads took     4.3181802E7 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  3.19548682E8 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  4.33104348E8 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 4.20493998E8 nanoseconds
+
+------Multiplication:------
+Multiplying a 10 by 10 with a 10 by 10 matrices on one thread took          2756222.0 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 10 threads took          3957548.0 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 100 threads took         1.68268E7 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on one thread took      2.8886932E7 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 10 threads took      3.4588973E7 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 100 threads took     7.6786631E7 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  5.205757377E9 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  2.324974719E9 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 2.419974356E9 nanoseconds
+
+
+
+Java
+future
+------Addition:------
+Adding a 10 by 10 with a 10 by 10 matrices on 1 thread took            3519007.0 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 10 threads took          3777403.0 nanoseconds
+Adding a 10 by 10 with a 10 by 10 matrices on 100 threads took         1.2407182E7 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on one thread took      3.0824077E7 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 10 threads took      2.9675699E7 nanoseconds
+Adding a 100 by 100 with a 100 by 100 matrices on 100 threads took     3.6884245E7 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  4.66589884E8 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  5.20801335E8 nanoseconds
+Adding a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 5.13587997E8 nanoseconds
+
+------Multiplication:------
+Multiplying a 10 by 10 with a 10 by 10 matrices on one thread took          4100516.0 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 10 threads took          3932523.0 nanoseconds
+Multiplying a 10 by 10 with a 10 by 10 matrices on 100 threads took         1.3223281E7 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on one thread took      4.8854454E7 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 10 threads took      7.7805125E7 nanoseconds
+Multiplying a 100 by 100 with a 100 by 100 matrices on 100 threads took     6.3564408E7 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on one thread took  1.5814228386E10 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 10 threads took  4.431785239E9 nanoseconds
+Multiplying a 1000 by 1000 with a 1000 by 1000 matrices on 100 threads took 5.244552998E9 nanoseconds
+

@@ -1,0 +1,41 @@
+Threadpool with futures:
+
+//multiplication
+10x10 matrix 1 thread -> 0.005s
+10x10 matrix 10 threads ->0.005s
+100x100 matrix 10 threads ->0.053s
+100x100 matrix 50 threads ->0.056s
+100x100 matrix 100 threads ->0.059s
+1000x1000 matrix 100 threads ->4.838s
+1000x1000 matrix 1000 threads ->5.289s
+1000x1000 matrix 1000 threads ->15.97s
+
+//sum
+10x10 matrix 1 thread -> 0.004s
+10x10 matrix 10 threads ->0.004s
+100x100 matrix 10 threads ->0.033s
+100x100 matrix 50 threads ->0.035s
+100x100 matrix 100 threads ->0.04s
+1000x1000 matrix 100 threads -> 0.572s
+1000x1000 matrix 1000 threads ->0.225s
+
+
+Threadpool with runnable:
+//multiplication
+10x10 matrix 1 thread -> 0.005s
+10x10 matrix 10 threads ->0.005s
+100x100 matrix 10 threads ->0.053s
+100x100 matrix 50 threads ->0.056s
+100x100 matrix 100 threads ->0.059s
+1000x1000 matrix 100 threads ->4.838s
+1000x1000 matrix 1000 threads ->5.289s
+1000x1000 matrix 1000 threads ->15.97s
+
+//sum
+10x10 matrix 1 thread -> 0.002s
+10x10 matrix 10 threads ->0.003s
+100x100 matrix 10 threads ->0.023s
+100x100 matrix 50 threads ->0.031s
+100x100 matrix 100 threads ->0.042s
+1000x1000 matrix 100 threads -> 0.401s
+1000x1000 matrix 1000 threads ->1.116s

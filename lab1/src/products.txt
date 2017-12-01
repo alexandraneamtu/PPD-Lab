@@ -1,0 +1,6 @@
+5
+lapte 3 200000
+branza 5 100000
+carne 6 150000
+oua 2 700000
+paine 7 230000
