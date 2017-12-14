@@ -1,0 +1,8 @@
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/obj/x86/Debug/Lab7_2.csproj.CoreCompileInputs.cache
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/bin/Debug/Lab7_2.exe
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/bin/Debug/Lab7_2.pdb
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/bin/Debug/BigMath.dll
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/bin/Debug/BigMath.xml
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/obj/x86/Debug/Lab7_2.csprojResolveAssemblyReference.cache
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/obj/x86/Debug/Lab7_2.exe
+/Users/alexandraneamtu/Documents/An3-sem1/PPD/lab7/lab7_2/Lab7_2/Lab7_2/obj/x86/Debug/Lab7_2.pdb

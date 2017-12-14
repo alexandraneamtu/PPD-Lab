@@ -1,0 +1,13 @@
+Lab7_2 Documentation
+
+Add n big numbers. We want the result to be obtained digit by digit, starting with the least significant one, and as soon as possible. For this reason, you should use n-1 threads, each adding two numbers. Each thread should pass the result to the next thread. Arrange the threads in a binary tree. Each thread should pass the sum to the next thread through a queue, digit by digit.
+
+The program gets the number of numbers to add and the number of digits of a number that is
+randomly generated. After, for each pair of 2 numbers, I start a thread which computes the sum digit by digit. If it's an even number of numbers, then each thread will receive 2 big numbers, otherwise if the number is odd, the last thread will only get one big number. After the addition are made, we iterate one more time to add the carries for each digit.
+
+
+Exection times:
+2 numbers of 20 digits: 27 milliseconds
+5 numbers of 20 digits: 31 milliseconds
+10 numbers of 20 digits: 30 milliseconds
+20 numbers of 20 digits: 34 milliseconds
